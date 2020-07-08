@@ -1,0 +1,19 @@
+{
+  "name": "nodeomnistack10",
+  "version": "1.0.0",
+  "description": "Semana Omnistack 10 Rockeatseat",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Emerson de Abreu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
